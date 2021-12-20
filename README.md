@@ -77,7 +77,7 @@ $ cd Fb-hack
 
 $ ls
 
-$ python2 hack.py
+$ python2 reki.py
 =================================================
 
 
